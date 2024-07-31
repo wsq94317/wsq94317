@@ -55,5 +55,3 @@ Feel free to reach out if you want to collaborate on projects or just want to co
 
 ---
 
-### GitHub Stats
-![Siqi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wsq94317&show_icons=true&theme=radical)
