@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Percy 👋
+## Hi there, I'm Percy👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Siqi%20Wu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siqi-wu-percy)](https://www.linkedin.com/in/siqi-wu-percy)
 [![Github Badge](https://img.shields.io/badge/-wsq94317-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/wsq94317)](https://github.com/wsq94317)
