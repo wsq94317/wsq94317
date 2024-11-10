@@ -34,11 +34,22 @@ I am a dedicated programmer with a passion for coding, specializing in game deve
 ### UE4 Open World Shooting Mobile Game
 - **Description**: Part of a 300+ member team, responsible for in-game map module, part of task system, game instance interface, and assembly and display of weapon accessories.
 - **Technologies**: Unreal Engine, C++, Lua, Perforce
+- **Project Demo**: [Official Video](https://www.youtube.com/watch?v=RpSpfPwH9wk)
 
 ### Westpac Coding Competition
 - **Description**: Created an interactive virtual environment using Unreal Engine, allowing users to consult an AI bank employee via voice input.
 - **Technologies**: Unreal Engine, Voice Recognition, Virtual Reality
 - **Project Demo**: [Demo Video](https://youtu.be/bPV44ev2RU8)
+
+- ### UE4 Tutorial Project
+- **Description**: Created a Japanese-style 3D action game where players control a character capable of jumping, attacking, and blocking. NPCs detect the player within their line of sight, chasing and attacking upon detection. Players must defeat all NPCs to win, utilizing a three-stage attack system with increasing damage. Both player and NPC have health bars, leading to a death state when depleted. This project showcases interactive AI behavior and action mechanics in an immersive environment.
+- **Technologies**: Unreal Engine, C++, Blueprints
+- **Project Demo**: [Demo Video](https://youtu.be/W-yql5-M4Sk)
+
+- ### UE5 3D Tetris Project
+- **Description**: Collaborating on a Tetris-based game with a 3D perspective that enhances classic gameplay by incorporating player skills, currently under development. Core mechanics—falling, rotation, and line clearing—are fully implemented, along with basic material design. This project combines traditional gameplay with new interactive elements for an enhanced experience.
+- **Technologies**: Unreal Engine, C++, Blueprints, material, texture
+- **Project Demo**: [Demo Video](https://youtu.be/WWMIjPgGqZM)
 
 ### Data Mining Project
 - **Description**: Improved the reliability of auctions by reducing the probability of auctioning faulty cars. Processed 120,000 transaction samples and implemented decision trees, neural networks, linear regression, and logistic regression algorithms.
