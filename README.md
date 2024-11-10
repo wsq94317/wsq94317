@@ -9,22 +9,22 @@ I am a dedicated programmer with a passion for coding, specializing in game deve
 
 ## Work Experience
 ### Tencent Interactive Entertainment (9/2021 - 3/2023)
-**Game Client Developer (Full Time)**  
+**Mid-level Game Developer**  
 - Collaborated on an open-world shooting mobile game using Unreal Engine.
 - Developed comprehensive interfaces for the map system, including large and small maps, and implemented internal logic for map features.
 - Managed login interface server communication and user interface-server communication for the team system, employing both C++ and Lua.
 
-### Bilibili (3/2021-6/2021)
-**Game Client Developer (Intern)**  
+### Bilibili (3/2020-6/2021)
+**Junior Game Developer**  
 - Developed the backpack interface for a JRPG mobile game sequel, ensuring smooth operation of item generation, deletion, and usage.
 - Gained experience in ECS architecture and focused on enhancing communication skills and coding efficiency.
 
 ## Education
-- **Griffith University** (2/2023 – 7/2024): Master of IT, No Major Option
+- **Griffith University** (2/2023 – 7/2024): Master of IT
 - **Queensland University of Technology** (2/2018 – 7/2021): Master of IT, Data Science Major
 
 ## Skills
-- **Programming Languages**: C++, Python, Lua, SwiftUI, PHP, CSS, HTML
+- **Programming Languages**: C++, Python, Lua, SwiftUI, PHP, CSS, HTML, C#
 - **Database**: MySQL
 - **Version Control**: Perforce, Git
 - **Tools**: Adobe Photoshop, Autodesk CAD, Adobe Premiere Pro, SketchUp, Autodesk 3Ds Max
