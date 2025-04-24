@@ -8,8 +8,8 @@
 I am a dedicated programmer with a passion for coding, specializing in game development and IT. With 2 years of relevant full-time working experience, I have honed my skills in various programming languages and technologies.
 
 ## Work Experience
-### Tencent Interactive Entertainment (9/2021 - 3/2023)
-**Mid-level Game Developer**  
+### Tencent (9/2021 - 3/2023)
+**Junior Game Developer**  
 - Collaborated on an open-world shooting mobile game using Unreal Engine.
 - Developed comprehensive interfaces for the map system, including large and small maps, and implemented internal logic for map features.
 - Managed login interface server communication and user interface-server communication for the team system, employing both C++ and Lua.
