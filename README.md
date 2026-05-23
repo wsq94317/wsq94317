@@ -1,6 +1,6 @@
 ## Hi there, I'm Percy👋
 
-Group IT Manager-Operations @ Yehs Group | 🎮 Game Developer | 🛠 Internal Tools & Automation | 🏨 Hotel Systems & Digital Operations  
+Group IT Manager/Digital Operations @ Yehs Group | 🎮 Game Developer | 🛠 Internal Tools & Automation | 🏨 Hotel Systems & Digital Operations  
 Sydney, Australia
 
 [![Linkedin Badge](https://img.shields.io/badge/-Siqi%20Wu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siqi-wu-percy)](https://www.linkedin.com/in/siqi-wu-percy)
