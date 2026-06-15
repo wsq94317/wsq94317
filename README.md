@@ -54,7 +54,7 @@ I am especially interested in roles that combine programming, systems thinking, 
 
 ## 💼 Work Experience
 
-### Group IT Manager / Digital Operations  
+### Group IT Digital Operations Coordinator
 **Yeh's Hotel Group, Sydney**  
 **Mar 2025 – Present**
 
