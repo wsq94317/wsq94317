@@ -127,10 +127,15 @@ Reduced the probability of faulty car auctions across 120,000 transaction record
 ## 🛠 Tech Stack
 
 **Languages:** C++ · C# · Python · Lua · PHP · JavaScript · TypeScript · HTML · CSS · SQL
+
 **Game Dev:** Unreal Engine · Unity · Blueprints · Perforce · Gameplay Systems · UI Systems · Game Prototyping
+
 **Web & Internal Tools:** WordPress · PHP · MySQL · Flask · React · VPS Deployment · Git · GitHub
+
 **Automation & Data:** Python · Pandas · Excel Automation · Data Cleaning · Booking Reconciliation · Workflow Automation · AI-assisted dev (Claude / Claude Code)
+
 **Hotel & Business Systems:** RMS · ASI Frontdesk Cloud · SiteMinder · TravelClick · Lanyon / Cvent · The Hotels Network · Microsoft 365 · Power Apps · Power Automate · SharePoint
+
 **Other Tools:** Adobe Photoshop · Premiere Pro · Autodesk CAD · SketchUp · 3ds Max
 
 ---
