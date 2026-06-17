@@ -2,7 +2,7 @@
 
 **Digital Operations Coordinator @ YEHS Group** | 🎮 Game Developer | 🛠 Internal Tools & Automation | 🏨 Hotel Systems & Digital Operations
 
-📍 Sydney, Australia · 🛂 Full Australian working rights (485 visa)
+📍 Sydney, Australia · 🛂 Full Australian working rights (485 visa valid until Oct 2029)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siqi%20Wu%20(Percy)-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siqi-wu-percy)
 [![GitHub](https://img.shields.io/badge/GitHub-wsq94317-181717?logo=github&logoColor=white)](https://github.com/wsq94317)
@@ -138,6 +138,7 @@ Reduced the probability of faulty car auctions across 120,000 transaction record
 ## 🎓 Education
 
 **Griffith University** — Master of Information Technology · *Mar 2023 – Jul 2024*
+
 **Queensland University of Technology** — Master of Data Science · *Feb 2018 – Jul 2021*
 
 ---
